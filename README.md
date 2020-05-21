@@ -6,4 +6,5 @@ How to use? Simple:
 - Arrows draw a path in given direction
 - Ctrl + Arrow is used for move without drawing and also as a rubber
 
-Preview: etcha-sketch.netlify.app
+Preview: 
+https://etcha-sketch.netlify.app/
